@@ -1,0 +1,97 @@
+
+
+.btn-slider {
+    background: #171495;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+/* slider css end */
+
+/* categories css start */
+
+
+#carouselExample{
+    background: linear-gradient(to bottom right, #fad4f9, #f3f7f7, #a3b2fa);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-top: 10px;
+}
+
+.headphone{
+    width: 54%;
+}
+
+.phone{
+    width: 25%;
+}
+
+.write{
+    display: flex;
+    gap: 30px;
+}
+
+.h1{
+    font-family: "Your Chosen Font", sans-serif; 
+    text-decoration: underline; 
+    margin: 0;
+}
+
+.h2{
+    color: #8b8b8b;
+    margin-top: 3px;
+}
+
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: #ededed;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-top: 35px;
+    
+}
+
+.Image{
+    width: 45%;
+}
+
+.Item{
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.all_categories{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
+
+.navbar.bg-body-tertiary {
+    background-color: #1a187a !important;
+    
+}
+
+
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: #958ad4;
+    
+
+}
+
+
+.num{
+    color: #25177b;
+    padding-left: 1300px;
+    padding-top: 200px;
+    font-weight: bold;
+}
+
+.sale{
+    color: #f3f7f7;
+    padding-left: 1315px;
+}
